@@ -51,3 +51,5 @@ Nenhum projeto em desenvolvimento no momento.
 ## 🎓 Formação acadêmica
 
 **Escola Técnica Estadual de São Paulo (2020 - 2022)** - Técnico em Desenvolvimento de Sistemas
+
+<br />

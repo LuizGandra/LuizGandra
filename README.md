@@ -5,7 +5,7 @@ Desenvolvendo aplicações web desde 2020, sempre buscando solucionar problemas 
 <p><strong>📧 Email:</strong> luizc.gandra29<span>@gmail.com</span></p>
 <hr />
 
-<div>
+<div width="100%" align="center">
   <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=LuizGandra&show_icons=true&theme=ayu-mirage&hide_border=true&locale=pt-br"&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGandra&layout=compact&langs_count=6&theme=ayu-mirage&hide_border=true&locale=pt-br"/>

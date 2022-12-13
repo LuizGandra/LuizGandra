@@ -1,3 +1,5 @@
+api/pin?username=anuraghazra&repo=github-readme-stats
+
 # Sobre mim
           
 Desenvolvendo aplicações web desde 2020, sempre buscando solucionar problemas com criatividade e eficiência durante a criação de interfaces em conformidade com boas práticas de **UX** e **UI** por meio do uso de tecnologias como **React**, **JavaScript**, **HTML** e **CSS**.
@@ -26,6 +28,8 @@ Usado para registrar e compartilhar mais sobre a experiência pessoal de se trab
 
 ### Fint
 <p>Trabalho de Conclusão de Curso da Escola Técnica Estadual de São Paulo</p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGandra&repo=testando)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>Plataforma de simulação de investimentos e controle de gastos com cunho educativo visando a democratização do conhecimento financeiro, voltada especialmente para o público brasileiro. Participação na criação da aplicação web usando <strong>React</strong>, <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong>.</p>
 <hr />

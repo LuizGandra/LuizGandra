@@ -1,5 +1,3 @@
-api/pin?username=anuraghazra&repo=github-readme-stats
-
 # Sobre mim
           
 Desenvolvendo aplicações web desde 2020, sempre buscando solucionar problemas com criatividade e eficiência durante a criação de interfaces em conformidade com boas práticas de **UX** e **UI** por meio do uso de tecnologias como **React**, **JavaScript**, **HTML** e **CSS**.

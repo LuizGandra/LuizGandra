@@ -27,8 +27,6 @@ Usado para registrar e compartilhar mais sobre a experiência pessoal de se trab
 ### Fint
 <p>Trabalho de Conclusão de Curso da Escola Técnica Estadual de São Paulo</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGandra&repo=testando)](https://github.com/anuraghazra/github-readme-stats)
-
 <p>Plataforma de simulação de investimentos e controle de gastos com cunho educativo visando a democratização do conhecimento financeiro, voltada especialmente para o público brasileiro. Participação na criação da aplicação web usando <strong>React</strong>, <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong>.</p>
 <hr />
 

@@ -30,10 +30,10 @@ Usado para registrar e compartilhar mais sobre a experiência pessoal de se trab
 <p>Plataforma de simulação de investimentos e controle de gastos com cunho educativo visando a democratização do conhecimento financeiro, voltada especialmente para o público brasileiro. Participação na criação da aplicação web usando <strong>React</strong>, <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong>.</p>
 <hr />
 
-### Projeto 2
-<p>Descrição projeto 2</p>
+### Pig Game
+<p>Jogo de dados</p>
 
-<p>Resumo projeto 2.</p>
+<p>Jogo de dados no qual dois jogadores competem localmente. Desenvolvido com <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong>.</p>
 <hr />
 
 ### Projeto 3

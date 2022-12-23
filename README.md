@@ -33,7 +33,7 @@ Usado para registrar e compartilhar mais sobre a experiência pessoal de se trab
 ### Pig Game
 <p>Jogo de dados</p>
 
-<p>Jogo de dados no qual dois jogadores competem localmente. Desenvolvido com <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong>.</p>
+<p>Jogo de dados para até dois jogadores competirem de forma local. Desenvolvido com <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong>, o projeto utiliza da manipulação do DOM para construir os elementos de interação com o usuário e tornar a jogabilidade possível.</p>
 
 <br />
 

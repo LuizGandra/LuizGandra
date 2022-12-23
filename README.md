@@ -34,18 +34,13 @@ Usado para registrar e compartilhar mais sobre a experiência pessoal de se trab
 <p>Jogo de dados</p>
 
 <p>Jogo de dados no qual dois jogadores competem localmente. Desenvolvido com <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong>.</p>
-<hr />
 
-### Projeto 3
-<p>Descrição projeto 3</p>
-
-<p>Resumo projeto 3.</p>
 <br />
 
-## 💻 Projetos atuais
+## 💻 Projetos em desenvolvimento
 
-Nenhum projeto em desenvolvimento no momento.
-
+### Chat
+<p>Chat em tempo real desenvolvido com React, JS, HTML e SASS.</p>
 <br />
 
 ## 🎓 Formação acadêmica

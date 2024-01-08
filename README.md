@@ -14,7 +14,7 @@ Desenvolvendo aplicações web desde 2020, sempre buscando solucionar problemas 
 
 ## ☕ Medium
 
-Usado para registrar e compartilhar mais sobre a experiência pessoal de se trabalhar em alguns projetos como um desenvolvedor. Nos artigos, são listados algumas das dificuldades, das soluções e dos aprendizados adquiridos em cada uma das aplicações desenvolvidas.
+No Medium encontram-se artigos educativos sobre programação e relatos sobre experiências pessoais durante o trabalho de desenvolvimento, listando alguns dos desafios e aprendizados de cada aplicação.
 
 **📚 Medium:** https://medium.com/@luiz.gandra
 <br />

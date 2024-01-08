@@ -18,7 +18,6 @@ Usado para registrar e compartilhar mais sobre a experiência pessoal de se trab
 
 **📚 Medium:** https://medium.com/@luiz.gandra
 <br />
-*✋ Por se tratar de uma iniciativa recente, o Medium ainda não possui conteúdo.*
 
 <br />
 

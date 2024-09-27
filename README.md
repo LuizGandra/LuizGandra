@@ -5,7 +5,7 @@ Sou um **Web Developer** e **UI/UX Designer** focado em criar interfaces intuiti
 ![luizc.gandra29@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)
-![Medium](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white))
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 <br /><br />
 ## 🎓 Formação
 

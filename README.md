@@ -6,13 +6,11 @@ Sou um **Web Developer** e **UI/UX Designer** focado em criar interfaces intuiti
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)
 ![Medium](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white))
-
+<br /><br />
 ## 🎓 Formação
 
 **[42SP](https://www.42sp.org.br/): Common Core (Cursando)**
-<br />
+<br /><br />
 **Escola Técnica Estadual de São Paulo (2020 - 2022)** - Técnico em Desenvolvimento de Sistemas
-<br />
+<br /><br />
 **CS50x: Introduction to Computer Science - Harvard School of Engineering and Applied Sciences (Cursando)**
-
-<br />

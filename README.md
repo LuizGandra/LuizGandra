@@ -1,7 +1,7 @@
 # 👋 Olá!
 
 Sou um **Web Developer Full Stack** e **UI/UX Designer** focado em criar aplicações intuitivas e práticas que solucionem problemas reais de forma eficiente, priorizando a acessibilidade, performance e a experiência do usuário. Possuo experiência sólida com **React (Next.js e Vite)**, **CSS (Tailwind)**, **Node.js** e **HTML**.
-<br>
+<br /><br />
 Atualmente, estou cursando o **common-core** da [**42SP**]. Todos os projetos desenvolvidos por mim durante a formação serão disponibilizados de forma aberta em seus próprios repositórios!
 <br /><br />
 <a href="https://www.linkedin.com/in/luiz-gandra-a183a1289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

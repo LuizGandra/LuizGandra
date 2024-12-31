@@ -11,6 +11,6 @@ Atualmente, estou cursando o **common-core** da [**42SP**](https://www.42sp.org.
 ## 🎓 Formação
 **[42SP](https://www.42sp.org.br/): Common Core (Cursando)**
 <br /><br />
-**Escola Técnica Estadual de São Paulo (2020 - 2022)** - Técnico em Desenvolvimento de Sistemas
+**CS50x: Introduction to Computer Science - Harvard School of Engineering and Applied Sciences (2024)**
 <br /><br />
-**CS50x: Introduction to Computer Science - Harvard School of Engineering and Applied Sciences (Cursando)**
+**Escola Técnica Estadual de São Paulo (2020 - 2022)** - Técnico em Desenvolvimento de Sistemas

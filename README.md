@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-Sou um **Web Developer Full Stack** e **UI/UX Designer** focado em criar aplicações intuitivas e práticas que solucionem problemas reais de forma eficiente, priorizando a acessibilidade, performance e a experiência do usuário. Possuo experiência sólida com **React (Next.js e Vite)**, **CSS (Tailwind)**, **Node.js** e **HTML**.
+Sou um **Web Developer Full Stack** e **UI/UX Designer** focado em criar aplicações intuitivas e práticas que solucionem problemas reais de forma eficiente, priorizando a acessibilidade, performance e a experiência do usuário. Possuo experiência sólida com **React (Next.js e Vite)**, **CSS**, **Node.js** e **HTML**.
 <br /><br />
 Atualmente, estou cursando o **common-core** da [**42SP**](https://www.42sp.org.br/). Todos os projetos desenvolvidos por mim durante a formação serão disponibilizados de forma aberta em seus próprios repositórios!
 <br /><br />
